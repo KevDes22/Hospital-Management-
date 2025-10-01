@@ -58,8 +58,9 @@ This project demonstrates the following concepts:
 ---
 
 ## Result & Insights
+![Result Dashboard](https://github.com/KevDes22/Hospital-Management-/blob/main/hospital.png)
 
-From the dashboard, several analytical observations can be made:
+From the dashboard, several analytical observations was made:
 
 - Demographic Analysis in Healthcare
 
